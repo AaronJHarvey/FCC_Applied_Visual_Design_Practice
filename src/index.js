@@ -4,7 +4,8 @@ document.getElementById("app").innerHTML = `
 <div class="fullCard">
   <div class="cardContent">
     <div class="cardText">
-      <h4><s>Google</s></h4>
+      <h4><s>Google</s> Alphabet</h4>
+      <hr>
       <p><em>Google was founded by Larry Page and Sergey Brin while they were <u>Ph.D. students</u> at <strong>Stanford University</strong>.</em></p>
     </div>
     <div class="cardLinks">
