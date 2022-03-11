@@ -1,10 +1,10 @@
 import "./styles.css";
 
 document.getElementById("app").innerHTML = `
-<div class="fullCard">
+<div class="fullCard" id='thumbnail>
   <div class="cardContent">
     <div class="cardText">
-      <h4><s>Google</s> Alphabet</h4>
+      <h4>Alphabet</h4>
       <hr>
       <p><em>Google was founded by Larry Page and Sergey Brin while they were <u>Ph.D. students</u> at <strong>Stanford University</strong>.</em></p>
     </div>
