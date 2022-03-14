@@ -1,7 +1,7 @@
 import "./styles.css";
 
 document.getElementById("app").innerHTML = `
-<div class="fullCard" id='thumbnail>
+<div class="fullCard" id='thumbnail'>
   <div class="cardContent">
     <div class="cardText">
       <h4>Alphabet</h4>
